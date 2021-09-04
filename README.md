@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend,backend and mobil developer from Costa Rica</h3>
+<h3 align="center">A passionate frontend, backend and mobil developer from Costa Rica</h3>
 
 - 🔭 I’m currently study in **Universidad Tecnica Nacional**
 
